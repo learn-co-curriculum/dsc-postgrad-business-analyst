@@ -33,5 +33,10 @@
 **Power BI** and **Looker** are other dashboarding and visualization program packages used in the Data Analyst role.  Here are a few resources to help you to expand your knowledge of these helpful tools:  
 
 1. [Introduction to Power BI](https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/?ns-enrollment-type=Collection&ns-enrollment-id=k8xidwwnzk1em)  
-2. []()
+2. [Advanced Microsoft Power BI](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fadvanced-microsoft-power-bi%3Ftrk%3Dshare_ent_url%26shareId%3D4ckgbtTtRl23fz5MpdUd1Q%253D%253D)
 3. [Getting Started with Looker](https://looker.com/guide/getting-started)  
+4. []
+
+## Summary  
+
+Great! You have begun to focus your skills on a specific job. Continue to learn more of the skills for this role by looking through job requirements for skills that are common to many posts.
