@@ -12,11 +12,45 @@
 
 ## Business (Intelligence) Analyst Sample Job Descriptions  
 
->* responsible for identifying areas of improvement and driving the strategy behind those operational changes to deliver incremental and sustainable growth in user contribution, traffic, and revenue.
->* work with our Sales organization to help design its incentive compensation system, pilot new products and price points to sell to business owners.
->* strategize with our Marketing team to identify new and more efficient ways to acquire new customers.
->* partner with our Community Management organization to help identify new ways to encourage contribution from Yelp users.
->* collaborate with our Product Teams to provide analysis needed to help determine the most impactful product priorities.
+>**Junior Business Intelligence Analyst**  
+>
+>Skills and Qualifications:
+>
+>* Demonstrated knowledge working with Microsoft Power BI, Plus and or SQL Server Integration Services.
+>* DevelopingPower BI reports, and utilizing underlying data analytic technologies. Work experience in a similar role a plus.
+>* Writing SQL to solve complex information problems and or general programming experience a plus.
+>* Data visualization and implementing high value solutions such as dashboards, KPI’s and other higher dimensional visualizations.
+>* Solid data analysis and statistical skills
+>
+>Responsibilities:
+>
+>* Implement, publish, support Business Intelligence solutions based on business requirements and technical specifications using Power BI  
+>* Proactively identify opportunities to improve reporting, processes, and operations with technology solutions  
+>* Collaborate regularly with various teams to develop real-time dashboards that guide data-driven decisions  
+>* Create and present financial analysis necessary to measure financial results, trends. Develop visual reports, dashboards and KPI scorecards using Power BI  
+>* Continuously monitor, validate and improve data integrity and reporting effectiveness  
+>* Work toward automation of business processes and reporting using Business Intelligence tools  
+>* Conduct data analysis and facilitate stakeholder discussions to evaluate processes, determine data requirements, deliver data-driven recommendations, and support implementation  
+>* Strong project management skills  
+>* Train colleagues on consuming information through dashboards and reporting  
+
+
+
+>**Business Analyst**
+>
+>Skills and Qualifications:  
+>
+>* Ability to capture and document business needs and reporting requirements from multiple sources  
+>* Strong communication skills, both written and verbal with the ability to convey complex technical information  
+>* Ability to work independently and as part of a team environment  
+>* Comfortable with technology  
+>* Deadline driven with strong attention to details  
+>
+>Responsibilities:  
+>
+>* Collect, analyze, evaluate, and report data collected from customer in order to increase sales, efficiency and productivity  
+>* Serve as project lead for analyzing customer requirements  
+>* Partner with the Sales and IT team to share key information as it relates to customer information and future product strategy
 
 ## Business Analyst Resources  
 
@@ -35,7 +69,15 @@
 1. [Introduction to Power BI](https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/?ns-enrollment-type=Collection&ns-enrollment-id=k8xidwwnzk1em)  
 2. [Advanced Microsoft Power BI](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fadvanced-microsoft-power-bi%3Ftrk%3Dshare_ent_url%26shareId%3D4ckgbtTtRl23fz5MpdUd1Q%253D%253D)
 3. [Getting Started with Looker](https://looker.com/guide/getting-started)  
-4. []
+4. [] 
+
+## Excel
+
+**Excel** is a well known tool for data and data analysis.  Since it is frequently used it is essential to understand how to use the advanced tools it has. Following are some resources to help you to expand your working knowledge of Excel.  
+
+1. [30 Excel Shortcuts in 12 Minutes](https://exceljet.net/lessons/30-excel-shortcuts-in-12-minutes)  
+2. [LinkedIn Learning Excel Courses](https://www.linkedin.com/learning/subscription/topics/microsoft-excel)  
+3. [SkillShare Excel Courses](https://www.skillshare.com/search?query=advanced%20Excel)
 
 ## Summary  
 
