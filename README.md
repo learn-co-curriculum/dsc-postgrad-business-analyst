@@ -69,7 +69,7 @@
 1. [Introduction to Power BI](https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/?ns-enrollment-type=Collection&ns-enrollment-id=k8xidwwnzk1em)  
 2. [Advanced Microsoft Power BI](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fadvanced-microsoft-power-bi%3Ftrk%3Dshare_ent_url%26shareId%3D4ckgbtTtRl23fz5MpdUd1Q%253D%253D)
 3. [Getting Started with Looker](https://looker.com/guide/getting-started)  
-4. [] 
+4. [Looker Advanced Training](https://training.looker.com/) 
 
 ## Excel
 
