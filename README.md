@@ -2,7 +2,7 @@
 
 ## Introduction  
 
- A **Business Analyst**, also referred to as **Business Intelligence Analyst**, or **Systems Analyst**, is focused on analyzing the potential impact recommended changes may make on the business. This would include collecting data about the organizations operations, creating reports and making recommendations.  
+A **Business Analyst**, also referred to as **Business Intelligence Analyst**, or **Systems Analyst**, is focused on analyzing the potential impact recommended changes may make on the business. This would include collecting data about the organization's operations, creating reports and making recommendations.  
 
 ## Objectives  
 
@@ -64,7 +64,7 @@
 
 ### Power BI and Looker  
 
-**Power BI** and **Looker** are other dashboarding and visualization program packages used in the Data Analyst role.  Here are a few resources to help you to expand your knowledge of these helpful tools:  
+**Power BI** and **Looker** are other dashboarding and visualization program packages used in the Business Analyst role.  Here are a few resources to help you to expand your knowledge of these helpful tools:  
 
 1. [Introduction to Power BI](https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/?ns-enrollment-type=Collection&ns-enrollment-id=k8xidwwnzk1em)  
 2. [Advanced Microsoft Power BI](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fadvanced-microsoft-power-bi%3Ftrk%3Dshare_ent_url%26shareId%3D4ckgbtTtRl23fz5MpdUd1Q%253D%253D)
