@@ -2,7 +2,7 @@
 
 ## Introduction  
 
-A **Business Analyst**, also referred to as **Business Intelligence Analyst**, or **Systems Analyst**, is focused on analyzing the potential impact recommended changes may make on the business. This would include collecting data about the organization's operations, creating reports and making recommendations.  
+A **Business Analyst**, also referred to as **Business Intelligence Analyst**, or **Systems Analyst**, is focused on analyzing the potential impact recommended changes may make on the business. This would include collecting data about the organization's operations, creating reports and making recommendations. In this role you are less likely to use some of the tools associated with data science such as Python, statistics, machine learning or Big Data, but you can expect to create many visualizations. Domain knowledge will be a key factor in this position as this knowledge is necessary to determine opportunities for business improvements, and effective communication will be necessary to communicate the recommendations drawn from these opportunities.
 
 ## Objectives  
 
@@ -12,7 +12,9 @@ A **Business Analyst**, also referred to as **Business Intelligence Analyst**, o
 
 ## Business (Intelligence) Analyst Sample Job Descriptions  
 
->**Junior Business Intelligence Analyst**  
+**Junior Business Intelligence Analyst**  
+
+This highlights the need for heavy visualization knowledge since the bulk of the work will be developing dashboards and communicating the information learned from them.
 >
 >Skills and Qualifications:
 >
@@ -36,7 +38,9 @@ A **Business Analyst**, also referred to as **Business Intelligence Analyst**, o
 
 
 
->**Business Analyst**
+**Business Analyst**
+
+This is an example of a customer facing position which requires great communication to learn what the customer needs and the ability to translate that information to your team.  This will require organizing and connecting many data sources to analyze for the end result.
 >
 >Skills and Qualifications:  
 >
